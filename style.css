@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: rgb(79, 147, 190);
+}
+h2{
+    color:rgb(119, 188, 230);
+}
+h3{
+    color:rgb(104, 135, 145);
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 60%;
+}
